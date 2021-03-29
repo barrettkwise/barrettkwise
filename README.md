@@ -4,8 +4,8 @@ I have a growing knowledge of Python and HTML/CSS.
 Contact me via email at <a href"mailto:email: barrettkwise@gmail.com">barrettkwise@gmail.com</a>
 My schedule is varied as I have to keep up with school work, but I am willing work when ever I have time.
 To see my skill level, I have linked my work from school and what I have done in my free time.
-<li><a href="https://github.com/turt1edman/python">Python</a>
-<a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
+<ul><li><a href="https://github.com/turt1edman/python">Python</a></li>
+<li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li></ul>
 </p>
 
 <!---
