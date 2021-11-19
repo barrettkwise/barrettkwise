@@ -6,8 +6,8 @@ My schedule is varied as I have to keep up with school work, but I am willing to
 To see my skill level, I have linked my work from school and what I have done in my free time.
 <ul><li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
-<li><a href="https://github.com/turt1edman/java">Java</a></li></ul>
-<li><a href="<li><a href="https://github.com/turt1edman/java">Java</a></li></ul>">Translate Game Project</a></li></ul>
+<li><a href="https://github.com/turt1edman/java">Java</a></li>
+<li><a href="<li><a href="https://github.com/turt1edman/java">Translate Game Project</a></li></ul></a></li></ul>
 </p>
 
 <!---
