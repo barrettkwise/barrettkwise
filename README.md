@@ -7,7 +7,7 @@ To see my skill level, I have linked my work from school and what I have done in
 <ul><li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
 <li><a href="https://github.com/turt1edman/java">Java</a></li>
-<li><a href="<li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li></ul>
+<li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li></ul>
 </p>
 
 <!---
