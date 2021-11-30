@@ -4,10 +4,10 @@ I am learning Python, HTML/CSS, and Java and taking commisions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through Discord at turt1edman ッ#4636.
 My schedule is varied as I have to keep up with school work, but I am willing to work when ever I have time.
 To see my skill level, I have linked my work from school and what I have done in my free time.
-<ul><li><a href="https://github.com/turt1edman/python">Python</a></li>
+<ul><li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li>
+<li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
-<li><a href="https://github.com/turt1edman/java">Java</a></li>
-<li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li></ul>
+<li><a href="https://github.com/turt1edman/java">Java</a></li></ul>
 </p>
 
 <!---
