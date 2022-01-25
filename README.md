@@ -11,7 +11,7 @@ To see my skill level, I have linked my work from school and what I have done in
 </p>
 <footer>
 <h2></h2>
-<p> Thanks for taking a look at my page! <br> - Barrett (Turt1edman)</p>
+<p> Thanks for taking a look at my page! <br> - Barrett (turt1edman)</p>
 </footer>
 <!---
 turt1edman/turt1edman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
