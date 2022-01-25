@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h1>Welcome to my page! :wave: </h1>
 <p>I am in highschool trying to get my foot in the door in entry level programming.
 I am learning Python, HTML/CSS, and Java and taking commisions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a style="float: center" href="https://discord.com/users/358636454601031681">Discord</a> at turt1edman ッ#1234.
