@@ -7,14 +7,16 @@ To see my skill level, I have linked my work from school and what I have done in
 <br>
 <br>
 <strong> My Work </strong>
-<ul><li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li>
+<ul>
+<li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
 <li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
-<li><a href="https://github.com/turt1edman/java">Java</a></li></ul>
-</p>
+<li><a href="https://github.com/turt1edman/java">Java</a></li>
+</ul> </p>
+
 <footer>
 <h2></h2>
-<p> Thanks for taking a look at my page! <br> - Barrett (turt1edman)</p>
+<p> Thanks for taking a look at my page! <br> - Barrett (turt1edman) </p>
 </footer>
 <!---
 turt1edman/turt1edman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
