@@ -1,9 +1,12 @@
-<h1> Welcome to my page! :wave: </h1>
-<p>I am in highschool trying to get my foot in the door in entry level programming.
+<h2> Welcome to my page! :wave: </h2>
+<p> I am in highschool trying to get my foot in the door in entry level programming.
 I am learning/have a understanding of Python, HTML/CSS, and Java and am taking free commisions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turt1edman#1234.
 My schedule is varied as I have to keep up with school work, but I am willing to work when ever I have time.
 To see my skill level, I have linked my work from school and what I have done in my free time.
+<br>
+<br>
+<strong> My Work </strong>
 <ul><li><a href="https://github.com/turt1edman/translategame">Translate Game Project</a></li>
 <li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
