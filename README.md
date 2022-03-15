@@ -6,7 +6,7 @@ My schedule is varied as I have to keep up with school work, but I am willing to
 To see my skill level, I have linked my work from school and what I have done in my free time.
 <br>
 <br>
-<strong> My Work </strong>
+<strong> My Work (stars are my personal projects) </strong>
 <ul>
 <li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
 <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot 🌟</a></li>
