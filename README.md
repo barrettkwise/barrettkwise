@@ -16,7 +16,9 @@ To see my skill level, I have linked my work from school and what I have done in
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
 </ul> </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=turt1edman"> profile rating </a>
+<strong> Badges </strong>
+<ul>
+<li> Codewars badge <br> <img src="https://www.codewars.com/users/turt1edman/badges/small">
 
 <footer>
 <h2></h2>
