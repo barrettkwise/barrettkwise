@@ -1,4 +1,6 @@
 <h2> Welcome to my page! :wave: </h2>
+<strong> <a href="https://www.codewars.com/">Codewars </a> badge </strong>
+<img src="https://www.codewars.com/users/turt1edman/badges/micro" alt="codewars badge">
 <p> I am in highschool trying to get my foot in the door in entry level programming.
 I am learning/have a understanding of Python, HTML/CSS, and Java and am taking free commisions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turt1edman#1234.
