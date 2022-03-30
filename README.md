@@ -16,10 +16,6 @@ To see my skill level, I have linked my work from school and what I have done in
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
 </ul> </p>
 
-<strong> Translate Chat </strong>
-<script src="https://anvil.works/embed.js" async></script>
-<iframe style="width:100%;" data-anvil-embed src="https://FZNFM3JBU7LMK4DR.anvil.app/GEX2PDL57MMZXQGUGLWB3SFM"></iframe>
-
 <strong> Badges </strong>
 <ul>
 <li> Codewars badge <br> <img src="https://www.codewars.com/users/turt1edman/badges/small">
