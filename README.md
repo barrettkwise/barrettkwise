@@ -3,10 +3,10 @@
 I am learning/have a understanding of Python, HTML/CSS, and Java and am taking free commisions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turt1edman#1234.
 My schedule is varied as I have to keep up with school work, but I am willing to work when ever I have time.
-To see my skill level, I have linked my work from school and what I have done in my free time.
-<br>
-<br>
-<strong> My Work (stars are my favorite projects) </strong>
+To see my skill level, I have linked my work from school and from what I have done in my free time.
+
+<ul>
+<h4> My Work (stars are my favorite projects) </h4>
 <ul>
 <li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
 <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot 🌟</a></li>
@@ -14,8 +14,14 @@ To see my skill level, I have linked my work from school and what I have done in
 <li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/java">Java</a></li>
 <li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
-</ul> </p>
-
+</ul>
+<br>
+<h4> My Certifications </h4>
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/"> MTA Java Certification (2021)</a></li>
+</ul>
+</ul>
+</p>
 <footer>
 <h2></h2>
 <p> Thanks for taking a look at my page! <br> - Barrett (turt1edman) </p>
