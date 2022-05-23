@@ -18,7 +18,7 @@ To see my skill level, I have linked my work from school and from what I have do
 <br>
 <h4> My Certifications </h4>
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/"> MTA Java Certification (2021)</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/"> MTA Java Certification (2021)</a> <br> <img src="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf" alt="Certification photo"/> </li>
 </ul>
 </ul>
 </p>
