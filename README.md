@@ -8,9 +8,9 @@ To see my skill level, I have linked my work from school and from what I have do
 <ul>
 <h4> My Work (stars are my favorite projects) </h4>
 <ul>
-<li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
 <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot 🌟</a></li>
 <li><a href="https://github.com/turt1edman/BlackJack-Bot">BlackJack Discord Bot 🌟</a></li>
+<li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
 <li><a href="https://github.com/turt1edman/chess-ai">Chess AI</a></li>
 <li><a href="https://github.com/turt1edman/python">Python</a></li>
 <li><a href="https://github.com/turt1edman/java">Java</a></li>
