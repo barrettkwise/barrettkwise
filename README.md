@@ -1,5 +1,5 @@
 <h2> Welcome to my page! :wave: </h2>
-<p> I am in highschool trying to get my foot in the door in programming world.
+<p> I am a highschool student trying to get my foot in the door to the programming world.
 I have a solid understanding of Python, HTML/CSS, and Java and am taking free commissions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turtle#6969.
 My schedule is varied as I have to keep up with school work, but I am willing to work when ever I have time.
