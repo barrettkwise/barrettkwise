@@ -11,17 +11,16 @@ To see my skill level, I have linked my work from school and from what I have do
 
 <!-- Work -->
 <ul>
-<h4> My Work (stars are my favorite projects) </h4>
+<h4> My Work </h4>
 <ul>
-<li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot 🌟</a></li>
-<li><a href="https://github.com/turt1edman/BlackJack-Bot">BlackJack Discord Bot 🌟</a> (Click <a href="https://bit.ly/3Jg0H3q">here</a> to add to server)</li>
-<li><a href="https://github.com/turt1edman/translategame">Translate Game Project 🌟</a></li>
-<li><a href="https://github.com/turt1edman/python">Python</a></li>
-<li><a href="https://github.com/turt1edman/java">Java</a></li>
-<li><a href="https://github.com/turt1edman/web-stuff">Web Stuff</a></li>
+<li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot</a></li>
+<li><a href="https://github.com/turt1edman/circuitsim">Logic Circuit Simulator</a></li>
+<li><a href="https://github.com/turt1edman/BlackJack-Bot">BlackJack Discord Bot</a> (Click <a href="https://bit.ly/3Jg0H3q">here</a> to add to server)</li>
+<li><a href="https://github.com/turt1edman/translategame">Translate Game</a></li>
 </ul>
 <br>
-<!-- Certifications -->
+
+  <!-- Certifications -->
 <h4> My Certifications </h4>
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/"> MTA Java Certification (2021)</a> 
@@ -34,6 +33,7 @@ To see my skill level, I have linked my work from school and from what I have do
 </p>
 <footer>
 <h2></h2>
-<!-- Conclusion -->
+
+  <!-- Conclusion -->
 <p> Thanks for taking a look at my page! <br> - Barrett (turt1edman) </p>
 </footer>
