@@ -14,7 +14,7 @@ To see my skill level, I have linked my work from school and from what I have do
 <h4> My Work </h4>
 <ul>
 <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot</a></li>
-<li><a href="https://github.com/turt1edman/circuitsim">Logic Circuit Simulator</a></li>
+<li><a href="https://github.com/turt1edman/circuitsim">Logic Circuit Simulator</a> (also on <a href="https://pypi.org/project/logicsim/">PyPi</a>)</li>
 <li><a href="https://github.com/turt1edman/BlackJack-Bot">BlackJack Discord Bot</a> (Click <a href="https://bit.ly/3Jg0H3q">here</a> to add to server)</li>
 <li><a href="https://github.com/turt1edman/translategame">Translate Game</a></li>
 </ul>
