@@ -26,8 +26,7 @@ To see my skill level, I have linked my work from school and from what I have do
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/">MTA Java Certification (2021)</a> 
 <object data="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf" type="application/pdf" width="700px" height="700px"> 
 <embed src="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf"> <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf">Download PDF</a>.</p>
-</embed>
-</object></li>
+</embed></object></li>
 </ul>
 
 <h2></h2>
