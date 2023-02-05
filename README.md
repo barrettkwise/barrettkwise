@@ -29,7 +29,6 @@ To see my skill level, I have linked my work from school and from what I have do
 </embed>
 </object></li>
 </ul>
-<br>
 
 <h2></h2>
 <!-- Conclusion -->
