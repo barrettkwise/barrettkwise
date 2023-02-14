@@ -5,10 +5,10 @@
 <!-- About -->
 <h3> Background </h4>
 <p> I am a highschool student trying to get my foot in the door to the programming world.
-I have a solid understanding of Python, Java, and HTML/CSS and am taking free commissions.
+I have a solid understanding of Python and Java and am taking free commissions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turtle#6969.
-My schedule is varied as I have to keep up with school work, but I am willing to work when ever I have time.
-To see my skill level, I have linked my work from school and from what I have done in my free time.
+My schedule is varied as I have to keep up with school work, but I am willing to work whenever I have free time.
+To demonstrate my knowledge, I have linked my school work, personal projects, and certifications.
 </p>
 
 <!-- Work -->
@@ -23,14 +23,15 @@ To see my skill level, I have linked my work from school and from what I have do
 <!-- Certifications -->
 <h4> My Certifications </h4>
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/">MTA Java Certification (2021)</a> 
-<object data="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf" type="application/pdf" width="700px" height="700px"> 
-<embed src="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf"> <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/turt1edman/turt1edman/blob/main/Barrett_Wise_MTA_Java.pdf">Download PDF</a>.</p>
-</embed></object></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Barrett_Wise_MTA_Java.pdf">MTA Java Certification (2021)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Intro_to_Mecha.pdf">Festo Intro. to Mechatronics Certification (2022)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Hydraulics.pdf">Festo Hydraulics Certification (2023)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Sensors.pdf">Festo Sensors Certification (2023)</a></li>
 </ul>
 
 <h2></h2>
 <!-- Conclusion -->
 <footer>
 <p> Thanks for taking a look at my page!<br> - Barrett Wise </p>
+<a href=#><img src="contributions.svg"></a>
 </footer>
