@@ -8,7 +8,7 @@
 I have a solid understanding of Python and am taking free commissions.
 Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a> or through <a href="https://discord.com/users/358636454601031681">Discord</a> at turtle#6969.
 My schedule is varied as I have to keep up with school work, but I am willing to work whenever I have free time.
-To demonstrate my knowledge, I have linked my school work, personal projects, and certifications.
+To demonstrate my knowledge, I have linked below my school work, personal projects, and certifications.
 </p>
 
 <!-- Work -->
