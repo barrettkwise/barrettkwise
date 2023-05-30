@@ -1,10 +1,12 @@
 <!-- About -->
 <h3> About Me </h4>
-<p> I am a student trying to get my foot in the door to the programming world.
-I have a solid understanding of Python and am taking free commissions.
-Contact me via email at <a href="mailto:email:barrettkwise@gmail.com">barrettkwise@gmail.com</a>. 
-My schedule is varied as I have to keep up with school work, but I am willing to work whenever I have free time.
-To demonstrate my knowledge, I have linked below my school work, personal projects, and certifications.
+<p> 
+I am an ambitious student trying to get my foot in the door of the programming world.
+I have a solid understanding of Python and other software development tools, such as Git and the command line.
+To prove my proficiency with these tools, I have linked below my school work, personal projects, and certifications.
+My schedule is varied as I have to keep up with school work and other commitments, but I am willing to work whenever I have free time.
+If you would to suggest a project idea to me, or work with me on one of my ongoing projects, please feel free to send me an email
+and I will get back to you as soon as possible.
 </p>
 
 <!-- Projects -->
