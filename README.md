@@ -11,8 +11,8 @@ My schedule is varied as I have to keep up with school work, but I am willing to
 To demonstrate my knowledge, I have linked below my school work, personal projects, and certifications.
 </p>
 
-<!-- Work -->
-<h4> My Work </h4>
+<!-- Projects -->
+<h4> Projects </h4>
 <ul>
 <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot</a></li>
 <li><a href="https://github.com/turt1edman/circuitsim">Logic Circuit Simulator</a></li>
@@ -21,7 +21,7 @@ To demonstrate my knowledge, I have linked below my school work, personal projec
 </ul>
 
 <!-- Certifications -->
-<h4> My Certifications </h4>
+<h4> Certifications </h4>
 <ul>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Barrett_Wise_MTA_Java.pdf">MTA Java Certification (2021)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Intro_to_Mecha.pdf">Festo Intro. to Mechatronics Certification (2022)</a></li>
