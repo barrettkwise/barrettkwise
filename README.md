@@ -24,7 +24,9 @@ and I will get back to you as soon as possible.
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Barrett_Wise_MTA_Java.pdf">MTA Java Certification (2021)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Intro_to_Mecha.pdf">Festo Intro. to Mechatronics Certification (2022)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Hydraulics.pdf">Festo Hydraulics Certification (2023)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Pnuematics.pdf">Festo Pnuematics Certification (2023)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Sensors.pdf">Festo Sensors Certification (2023)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/PLC.pdf">Festo PLC Certification (2023)</a></li>
 </ul>
 
 <h2></h2>
