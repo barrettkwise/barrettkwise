@@ -27,6 +27,7 @@ and I will get back to you as soon as possible.
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Pnuematics.pdf">Festo Pnuematics Certification (2023)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Sensors.pdf">Festo Sensors Certification (2023)</a></li>
 <li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/PLC.pdf">Festo PLC Certification (2023)</a></li>
+<li><a href="https://github.com/barrettkwise/barrettkwise/blob/main/Siemens%20Level%201.pdf">Siemens Level 1 Certification (2023)</li>  
 </ul>
 
 <h2></h2>
