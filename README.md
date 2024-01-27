@@ -2,7 +2,7 @@
 <h3> About Me </h4>
 <p> 
 I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> student at Virginia Tech trying to get my foot in the door of the programming world.
-I have a solid understanding of Python and other software development tools, such as Git and the command line.
+I have a solid understanding of Python and other software development tools, such as Git and the command line (bash/zsh).
 To prove my proficiency with these tools, I have linked below my school work, personal projects, and certifications.
 My schedule is varied as I have to keep up with school work and other commitments, but I am willing to work whenever I have free time.
 If you would to suggest a project idea to me, or work with me on one of my ongoing projects, please feel free to send me an email
