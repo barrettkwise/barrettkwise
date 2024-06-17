@@ -15,7 +15,7 @@ I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> (Geosci
 <ul>
   <li><a href="https://github.com/turt1edman/translatechatbot">Translate Chat Bot</a></li>
   <li><a href="https://github.com/turt1edman/circuitsim">Logic Circuit Simulator</a></li>
-  <li><a href="https://github.com/barrettkwise/ballsimulator">Turtle Graphics Physics Simulator</a> (Work in progress)</li>
+  <li><a href="https://github.com/barrettkwise/ballsimulator">Turtle Graphics Physics Simulator</a></li>
   <li><a href="https://github.com/turt1edman/BlackJack-Bot">BlackJack Discord Bot</a> (Click <a href="https://bit.ly/3Jg0H3q">here</a> to add to server)</li>
   <li><a href="https://github.com/turt1edman/translategame">Translate Game</a></li>
 </ul>
