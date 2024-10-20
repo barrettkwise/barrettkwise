@@ -1,7 +1,7 @@
 <!-- About -->
 <h3> About Me </h4>
 <p> 
-I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> (Geosciences Path) student at Virginia Tech interested in ML and Geology, feel free to reach out!
+I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> student at Virginia Tech interested in ML and Geology, feel free to reach out!
 <!-- Contact Methods -->
 <ul>
   <li>Personal Email: <a href="mailto:barrettw@fastmail.com">barrettw@fastmail.com</a></li>
