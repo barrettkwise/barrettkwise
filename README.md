@@ -9,7 +9,17 @@ I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> student
   <li>LinkedIn: <a href="https://www.linkedin.com/in/barrettkwise">barrettkwise</a></li>
   <li>Discord: <a href="https://discordapp.com/users/358636454601031681">tuortle</a></li>
 </ul>
+
+<h4> Currently Learning </h4>
+<ul>
+  <li>Industrial confusion & inconviencience engineering</li>
+  <li>Force push and pray</li>
+  <li>Verose abstraction (in the general sense as it applies to cubic regression)</li>
+  <li>Liquification</li>
+  <li>Analytical analysis</li>
+</ul>
 </p>
+
 <!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/barrettkwise/barrettkwise/blob/output/github-snake-dark.svg" />
