@@ -2,6 +2,9 @@
 <h3> About Me </h4>
 <p> 
 I am a <a href="https://data.science.vt.edu/programs/cmda.html">CMDA</a> student at Virginia Tech interested in ML and <a href="https://en.wikipedia.org/wiki/Geographic_information_system">GIS</a>, feel free to reach out!
+
+Director of dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
+
 <!-- Contact Methods -->
 <ul>
   <li>Personal Email: <a href="mailto:barrettw@fastmail.com">barrettw@fastmail.com</a></li>
