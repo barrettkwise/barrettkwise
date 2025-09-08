@@ -12,15 +12,6 @@ Director of dynamic interpolation for comprehensive media distribution and analy
   <li>LinkedIn: <a href="https://www.linkedin.com/in/barrettkwise">barrettkwise</a></li>
   <li>Discord: <a href="https://discordapp.com/users/358636454601031681">tuortle</a></li>
 </ul>
-
-<h4> Currently Learning </h4>
-<ul>
-  <li>Industrial confusion & inconviencience engineering</li>
-  <li>Force push and pray</li>
-  <li>Verose abstraction (in the general sense as it applies to cubic regression)</li>
-  <li>Liquification</li>
-  <li>Analytical analysis</li>
-</ul>
 </p>
 
 <!-- Snake -->
